@@ -1,0 +1,17 @@
+{
+  "name": "todoList_backend",
+  "version": "1.0.0",
+  "description": "Node JS Backend service for todo list",
+  "main": "index.js",
+  "author": "jeet0007",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
